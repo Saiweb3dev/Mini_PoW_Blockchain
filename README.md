@@ -18,11 +18,11 @@ Ensure you have Go installed. If not, install it from the [official site](https:
 ### Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/mini-pow-blockchain.git
-cd mini-pow-blockchain
+git clone https://github.com/Saiweb3dev/Mini_PoW_Blockchain.git
+cd Mini_PoW_Blockchain
 
 # Initialize Go module
-go mod init mini-blockchain
+go mod init Mini_PoW_Blockchain
 ```
 
 ### Running the Blockchain
